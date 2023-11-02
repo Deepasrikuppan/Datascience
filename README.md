@@ -1,5 +1,4 @@
 # Datascience
-://github.com/sasielumalai/ADS-phase1
 This repository contains code and resources for predicting product demand using machine learning techniques. The project aims to help businesses optimize inventory and 
 supply chain management by forecasting future product demand based on historical data.
 
